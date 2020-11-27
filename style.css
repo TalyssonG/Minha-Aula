@@ -1,0 +1,103 @@
+#foto {
+    width: 90px;
+    height: 90px;
+    border-radius: 100%;
+    padding: 50px;
+    
+}
+
+
+
+
+h2{
+    color:#fff;
+    background-color: red;
+    width: 190px;
+    border-radius: 30px;
+    font-size: 20px;
+    padding: 20px;
+    
+    
+    
+    
+}
+
+b{
+    background-color: red;
+    color: #fff;
+    border-radius: 20px;
+    font-size: 20px;
+    width: 20%;
+    padding: 13px;
+    margin-left: -170px;
+    
+    
+
+}
+
+
+
+
+form{
+    margin-top:15px;
+    background-color: rgb(221, 210, 210);
+    border: solid red;
+    display: inline-block;
+    padding:20px;
+    display: table-caption;
+
+}
+
+#nome1{
+    color:red;
+    border-radius: 10px;
+    border: solid #000;
+    
+
+}
+
+#nome2{
+    color:red;
+    border-radius: 10px;
+    border: solid #000;
+    
+}
+
+#nome3{
+    color:red;
+    border-radius: 10px;
+    border: solid #000;
+    
+}
+
+button{
+    color:#fff;
+    background-color: red;
+    border-radius: 30px;
+    width: 70px;
+    height: 20px;
+    border: black;
+}
+
+button:hover{
+    background-color: rgb(221, 97, 97);
+}
+label{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+body{
+    margin-left: 40%;
+}
+
+div.lista{
+    background-color: #000;
+    width: 190px;
+    height: 80px;
+    color: #fff;
+    padding: 8px;
+    align-items: center;
+    border:solid red;
+
+}
